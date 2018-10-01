@@ -3,6 +3,6 @@
   
   Language : HTML , HTML5 , CSS , CSS3
   
-  Database : MYSQL
+  Database : MYSQLI
   
   Tool : XAMPP AND Notepade++
